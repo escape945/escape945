@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @escape945
+- 🌱 I’m a beginner in coding
+- ♥️ I’m currently learning php, javascript, node.jd
